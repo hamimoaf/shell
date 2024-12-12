@@ -14,8 +14,8 @@ You've been asked to update this script to also automate the initial organizatio
    ```bash
    git checkout -b assignment
    ```
-
----
+   
+    ---
 
 ### Part 1: Update the Data Ingest Script
 1. **Modify the Script**: Using the template in ``02_activities/assignments/assignment.sh``, fill in the correct commands as described by the comments.
